@@ -3,6 +3,10 @@
 Author Information
 --------------------------------------------------------------------------------
 Name:   Lauraine Baffot
+Name:   Matthew Wu
+Name:   Rachel Renegado
+Name:   Michael Tandyo
+Name:   Bob Jones
 
 Program Information
 --------------------------------------------------------------------------------
